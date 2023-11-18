@@ -39,3 +39,4 @@ input BookInput {
     removeBook(bookId: ID!): User
   }
 `;
+module.exports = typeDefs;
